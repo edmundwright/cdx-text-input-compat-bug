@@ -1,0 +1,15 @@
+{
+	"name": "testproject",
+	"private": true,
+	"scripts": {
+		"test:unit": "jest"
+	},
+	"devDependencies": {
+		"@vue/test-utils": "2.0.0-rc.21",
+		"@vue/vue3-jest": "27.0.0-alpha.4",
+		"@wikimedia/codex": "0.2.1",
+		"@vue/compat": "3.2.37",
+		"jest": "27.4.7",
+		"vue": "3.2.37"
+	}
+}

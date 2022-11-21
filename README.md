@@ -1,0 +1,1 @@
+See comments in jest.config.js and tests/Test.test.js.
